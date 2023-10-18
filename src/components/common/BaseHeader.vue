@@ -1,0 +1,11 @@
+<template>
+  <b-navbar
+    variant="dark"
+    fixed="top"
+  >
+    <b-navbar-brand
+      class="text-white"
+      href="#"
+    >Violations</b-navbar-brand>
+  </b-navbar>
+</template>
